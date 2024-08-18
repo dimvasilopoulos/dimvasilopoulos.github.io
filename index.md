@@ -25,9 +25,9 @@ In 2019, I obtained my Ph.D. from Sorbonne University, which took place at EUREC
 
 *  _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, Melek \"{O}nen.\
    **POROS: Proof of Data Reliability for Outsourced Storage.**\
-   In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018 [[DOI](https://doi.org/10.1145/3201595.3201600), PDF]
+   In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM&nbspASIACCS-SCC**), 2018 [[DOI](https://doi.org/10.1145/3201595.3201600), PDF]
 
-*  _Dimitrios Vasilopoulos_, Melek \"{O}nen, Kaoutar ElKhiyaoui, Refik Molva.\
+*  _Dimitrios Vasilopoulos_, Melek \"Onen, Kaoutar ElKhiyaoui, Refik Molva.\
    **Message-Locked Proofs of Retrievability with Secure Deduplication.**\
-   In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016 [[DOI](https://doi.org/10.1145/2996429.2996433), PDF]
+   In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM&nbspCCS-CCSW**), 2016 [[DOI](https://doi.org/10.1145/2996429.2996433), PDF]
  
