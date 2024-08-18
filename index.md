@@ -35,8 +35,8 @@ In 2019, I obtained my Ph.D. from Sorbonne University, which took place at EUREC
 
 ### Program Committees
 
-**[2024]** ACNS, CBT
-**[2023]** Tokenomics, CBT
+**[2024]** ACNS, CBT\
+**[2023]** Tokenomics, CBT\
 **[2022]** Tokenomics, CBT, ESORICS Poster Program
 
 ### Reviewer for International Journals
