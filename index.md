@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## About me
 
-[Link to another page](./another-page.html).
+Over the past three years, I was a post-doctoral researcher at IMDEA Software Institute in Madrid (Spain) under the direction of Pedro Moreno-Sanchez, where I worked on the design of provable secure and privacy-preserving cryptographic protocols for payments over blockchain technologies.
 
-There should be whitespace between paragraphs.
+In 2019, I obtained my Ph.D. from Sorbonne University, which took place at EURECOM in Sophia Antipolis (France) under the direction of Refik Molva and Melek \"{O}nen. During my Ph.D., I worked on verifiable cloud storage designing cryptographic protocols that reconcile cloud storage functionalities with security. More specifically, I worked on the design of cryptographic protocols that succeed in verifying the reliable storage of outsourced data while enabling cloud storage providers to autonomously perform automatic data maintenance and data reduction operations.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Research Publications
 
-# Header 1
+*  Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, Pedro Moreno-Sanchez.\
+   ** Cryptographic Oracle-based Conditional Payments. **\
+   In Proceedings of the 30th Annual Network and Distributed System Security Symposium _(NDSS)_, 2023.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*  _Dimitrios Vasilopoulos_, Melek \"{O}nen, Refik Molva, Kaoutar ElKhiyaoui.\
+   ** Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance. **\
+   Security and Privacy, 2020;e137.
 
-## Header 2
+*  _Dimitrios Vasilopoulos_, Melek \"{O}nen, Refik Molva.\
+   ** PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage. **\
+   In Proceedings of the 16th International Conference on Security and Cryptography _(SECRYPT)_, 2019.\
+   <span style="color:red;">    Recipient of the Best Student Paper Award</span>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*  _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, Melek \"{O}nen.\
+   ** POROS: Proof of Data Reliability for Outsourced Storage. **\
+   In Proceedings of the 6th International Workshop on Security in Cloud Computing _(ACM ASIACCS-SCC)_, 2018.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*  _Dimitrios Vasilopoulos_, Melek \"{O}nen, Kaoutar ElKhiyaoui, Refik Molva.\
+   ** Message-Locked Proofs of Retrievability with Secure Deduplication. **\
+   In Proceedings of the 2016 ACM on Cloud Computing Security Workshop _(ACM CCS-CCSW)_, 2016.
