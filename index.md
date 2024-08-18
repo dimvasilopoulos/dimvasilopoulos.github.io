@@ -12,22 +12,37 @@ In 2019, I obtained my Ph.D. from Sorbonne University, which took place at EUREC
 
 *  Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, Pedro Moreno-Sanchez.\
    **Cryptographic Oracle-based Conditional Payments.**\
-   In Proceedings of the 30th Annual Network and Distributed System Security Symposium (**NDSS**), 2023 [[DOI](https://doi.org/10.14722/ndss.2023.24024), PDF]
+   In Proceedings of the 30th Annual Network and Distributed System Security Symposium (**NDSS**), 2023. [[DOI](https://doi.org/10.14722/ndss.2023.24024), [PDF](https://eprint.iacr.org/2022/499.pdf)]
 
 *  _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, Kaoutar ElKhiyaoui.\
    **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance.**\
-   Security and Privacy, 2020;e137 [[DOI](https://doi.org/10.1002/spy2.137), PDF]
+   Security and Privacy, 2020;e137. [[DOI](https://doi.org/10.1002/spy2.137), PDF]
 
 *  _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva.\
    **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage.**\
-   In Proceedings of the 16th International Conference on Security and Cryptography (**SECRYPT**), 2019 [[DOI](https://doi.org/10.5220/0007927301730186), PDF]\
+   In Proceedings of the 16th International Conference on Security and Cryptography (**SECRYPT**), 2019. [[DOI](https://doi.org/10.5220/0007927301730186), PDF]\
    <span style="color:red;">    Recipient of the Best Student Paper Award</span>
 
 *  _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, Melek Önennen.\
    **POROS: Proof of Data Reliability for Outsourced Storage.**\
-   In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018 [[DOI](https://doi.org/10.1145/3201595.3201600), PDF]
+   In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018. [[DOI](https://doi.org/10.1145/3201595.3201600), PDF]
 
 *  _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, Refik Molva.\
    **Message-Locked Proofs of Retrievability with Secure Deduplication.**\
-   In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016 [[DOI](https://doi.org/10.1145/2996429.2996433), PDF]
+   In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016. [[DOI](https://doi.org/10.1145/2996429.2996433), PDF]
  
+## Academic Service
+
+### Program Committees
+
+**[2024]** ACNS, CBT
+**[2023]** Tokenomics, CBT
+**[2022]** Tokenomics, CBT, ESORICS Poster Program
+
+### Reviewer for International Journals
+
+Journal of Parallel and Distributed Computing, IEEE Transactions on Dependable and Secure Computing, Journal of Cloud Computing, International Journal of Information Security, IEEE Transactions on Information Forensics & Security.
+
+### External Reviewer for International Conferences
+
+Usenix (2023), SECRYPT (2023, 2017, 2016), CFS (2023), NDSS (2022), FC (2022), AFT (2022), IFIP SEC (2022, 2017), PST (2019), ACNS (2018), IEEE CNS (2018), ACM CCS (2017), ESORICS (2017), CANS (2017, 2016), ICDS (2016), ISC (2016), DPM (2015).
