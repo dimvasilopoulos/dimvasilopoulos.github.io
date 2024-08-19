@@ -22,7 +22,7 @@ sidebar:
     icon: <i class="fa-brands fa-google-scholar"></i>
     link: https://scholar.google.com/citations?user=
   - name: My CV
-    icon: <i class="fa-regular fa-download"></i>
+    icon: <i class="fa-solid fa-download"></i>
     link: ./another-page.html
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
