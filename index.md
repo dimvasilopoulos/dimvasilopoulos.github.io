@@ -4,13 +4,11 @@ layout: default
 
 ## About me
 
-Over the past three years, I was a post-doctoral researcher at IMDEA Software Institute in Madrid (Spain) under the direction of Pedro Moreno-Sanchez, where I worked on the design of provable secure and privacy-preserving cryptographic protocols for payments over blockchain technologies.
+Over the past three years, I was a post-doctoral researcher at [IMDEA Software Institute](https://software.imdea.org/) in Madrid (Spain) under the direction of [Pedro Moreno-Sanchez](https://software.imdea.org/~pedro.moreno/), where I worked on the design of provable secure and privacy-preserving cryptographic protocols for payments over blockchain technologies.
 
-In 2019, I obtained my Ph.D. from Sorbonne University, which took place at EURECOM in Sophia Antipolis (France) under the direction of Refik Molva and Melek Önen. During my Ph.D., I worked on verifiable cloud storage designing cryptographic protocols that reconcile cloud storage functionalities with security. More specifically, I worked on the design of cryptographic protocols that succeed in verifying the reliable storage of outsourced data while enabling cloud storage providers to autonomously perform automatic data maintenance and data reduction operations.
+In 2019, I obtained my Ph.D. from [Sorbonne University](https://www.sorbonne-universite.fr/en), which took place at [EURECOM](https://www.eurecom.fr/) in Sophia Antipolis (France) under the direction of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). During my Ph.D., I worked on verifiable cloud storage designing cryptographic protocols that reconcile cloud storage functionalities with security. More specifically, I worked on the design of cryptographic protocols that succeed in verifying the reliable storage of outsourced data while enabling cloud storage providers to autonomously perform automatic data maintenance and data reduction operations.
 
 My Ph.D. thesis is [here.](https://tel.archives-ouvertes.fr/tel-03010491)
-
-My [CV]()
 
 * * *
 
