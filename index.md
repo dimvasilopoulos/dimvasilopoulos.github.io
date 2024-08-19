@@ -20,20 +20,20 @@ In Proceedings of the 30th Annual Network and Distributed System Security Sympos
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, Kaoutar ElKhiyaoui.\
 **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance.**\
-Security and Privacy, 2020;e137. [[DOI](https://doi.org/10.1002/spy2.137), PDF]
+Security and Privacy, 2020;e137. [[DOI](https://doi.org/10.1002/spy2.137), [PDF](./docs/proofs-of-data-reliability.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva.\
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage.**\
-In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications (**SECRYPT**), 2019. [[DOI](https://doi.org/10.5220/0007927301730186), PDF]\
+In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications (**SECRYPT**), 2019. [[DOI](https://doi.org/10.5220/0007927301730186), [PDF](./docs/portos.pdf)]\
 <span style="color:red;">    Recipient of the Best Student Paper Award</span>
 
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, Melek Önen.\
 **POROS: Proof of Data Reliability for Outsourced Storage.**\
-In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018. [[DOI](https://doi.org/10.1145/3201595.3201600), PDF]
+In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018. [[DOI](https://doi.org/10.1145/3201595.3201600), [PDF](./docs/poros.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, Refik Molva.\
 **Message-Locked Proofs of Retrievability with Secure Deduplication.**\
-In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016. [[DOI](https://doi.org/10.1145/2996429.2996433), PDF]
+In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016. [[DOI](https://doi.org/10.1145/2996429.2996433), [PDF](./docs/ml-por.pdf)]
 
 * * *
 
