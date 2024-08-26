@@ -16,28 +16,28 @@ My Ph.D. thesis is [here.](https://tel.archives-ouvertes.fr/tel-03010491)
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez.\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers.**\
-In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025(1). [[pdf](https://eprint.iacr.org/2024/953)] (To appear)
+In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025(1). [[PDF](https://eprint.iacr.org/2024/953)] (To appear)
 
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, Pedro Moreno-Sanchez.\
 **Cryptographic Oracle-based Conditional Payments.**\
-In Proceedings of the 30th Annual Network and Distributed System Security Symposium (**NDSS**), 2023. [[doi](https://doi.org/10.14722/ndss.2023.24024), [pdf](https://eprint.iacr.org/2022/499.pdf)]
+In Proceedings of the 30th Annual Network and Distributed System Security Symposium (**NDSS**), 2023. [[DOI](https://doi.org/10.14722/ndss.2023.24024), [PDF](https://eprint.iacr.org/2022/499.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, Kaoutar ElKhiyaoui.\
 **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance.**\
-Security and Privacy, 2020;e137. [[doi](https://doi.org/10.1002/spy2.137), [pdf](./docs/proofs-of-data-reliability.pdf)]
+Security and Privacy, 2020;e137. [[DOI](https://doi.org/10.1002/spy2.137), [PDF](./docs/proofs-of-data-reliability.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva.\
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage.**\
-In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications (**SECRYPT**), 2019. [[doi](https://doi.org/10.5220/0007927301730186), [pdf](./docs/portos.pdf)]\
+In Proceedings of the 16th International Joint Conference on e-Business and Telecommunications (**SECRYPT**), 2019. [[DOI](https://doi.org/10.5220/0007927301730186), [PDF](./docs/portos.pdf)]\
 <span style="color:red;">    Recipient of the Best Student Paper Award</span>
 
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, Melek Önen.\
 **POROS: Proof of Data Reliability for Outsourced Storage.**\
-In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018. [[doi](https://doi.org/10.1145/3201595.3201600), [pdf](./docs/poros.pdf)]
+In Proceedings of the 6th International Workshop on Security in Cloud Computing (**ACM ASIACCS-SCC**), 2018. [[DOI](https://doi.org/10.1145/3201595.3201600), [PDF](./docs/poros.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, Refik Molva.\
 **Message-Locked Proofs of Retrievability with Secure Deduplication.**\
-In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016. [[doi](https://doi.org/10.1145/2996429.2996433), [pdf](./docs/ml-por.pdf)]
+In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCS-CCSW**), 2016. [[DOI](https://doi.org/10.1145/2996429.2996433), [PDF](./docs/ml-por.pdf)]
 
 * * *
 
