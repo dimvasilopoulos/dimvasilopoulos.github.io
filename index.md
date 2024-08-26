@@ -16,7 +16,7 @@ My Ph.D. thesis is [here.](https://tel.archives-ouvertes.fr/tel-03010491)
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez.\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers.**\
-In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025(1). [[PDF](https://eprint.iacr.org/2024/953)] (To appear)
+In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025(1). [[PDF](https://eprint.iacr.org/2024/953.pdf)] (To appear)
 
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, Pedro Moreno-Sanchez.\
 **Cryptographic Oracle-based Conditional Payments.**\
