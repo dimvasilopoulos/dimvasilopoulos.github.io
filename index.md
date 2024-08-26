@@ -14,6 +14,10 @@ My Ph.D. thesis is [here.](https://tel.archives-ouvertes.fr/tel-03010491)
 
 ## Research Publications
 
+Diego Castejon-Molina, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez.\
+**MixBuy: Contingent Payment in the Presence of Coin Mixers.**\
+In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025(1). [[pdf](https://eprint.iacr.org/2024/953)] (To appear)
+
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, Pedro Moreno-Sanchez.\
 **Cryptographic Oracle-based Conditional Payments.**\
 In Proceedings of the 30th Annual Network and Distributed System Security Symposium (**NDSS**), 2023. [[DOI](https://doi.org/10.14722/ndss.2023.24024), [PDF](https://eprint.iacr.org/2022/499.pdf)]
