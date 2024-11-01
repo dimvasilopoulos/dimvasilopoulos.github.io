@@ -45,6 +45,7 @@ In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCSW@
 
 ### Program Committees
 
+**2025**  IEEE ICBC\
 **2024**  ACNS, CBT\
 **2023**  Tokenomics, CBT\
 **2022**  Tokenomics, CBT, ESORICS Poster Program
