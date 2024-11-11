@@ -14,6 +14,10 @@ My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 ## Research Publications
 
+Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore.\
+**Algebraic Zero Knowledge Contingent Payment.**\
+In Proceedings of the 23rd International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, (To appear).
+
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
 In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025.1, (To appear), [[PDF](https://eprint.iacr.org/2024/953.pdf)]
@@ -45,10 +49,10 @@ In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCSW@
 
 ### Program Committees
 
-**2025**  IEEE ICBC\
-**2024**  ACNS, CBT\
-**2023**  Tokenomics, CBT\
-**2022**  Tokenomics, CBT, ESORICS Poster Program
+**2025**  IEEE ICBC, CAAW@FC\
+**2024**  ACNS, CBT@ESORICS\
+**2023**  Tokenomics, CBT@ESORICS\
+**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
 
 ### Reviewer for International Journals
 
