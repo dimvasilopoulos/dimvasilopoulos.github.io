@@ -16,7 +16,7 @@ My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore\
 **Algebraic Zero Knowledge Contingent Payment**\
-In Proceedings of the 23rd International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, (To appear), [PDF]
+In Proceedings of the 23rd International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, (To appear), [[PDF](https://eprint.iacr.org/2024/1930.pdf)]
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
