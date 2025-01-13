@@ -20,7 +20,7 @@ In Proceedings of the 23rd International Conference on Applied Cryptography and 
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
-In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025.1, (To appear), [[PDF](https://eprint.iacr.org/2024/953.pdf)]
+In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025.1, [[DOI](https://doi.org/10.56553/popets-2025-0036) | [PDF](https://eprint.iacr.org/2024/953.pdf)]
 
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, and Pedro Moreno-Sanchez\
 **Cryptographic Oracle-based Conditional Payments**\
