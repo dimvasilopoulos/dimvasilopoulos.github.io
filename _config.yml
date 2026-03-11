@@ -23,7 +23,7 @@ sidebar:
   - name: Google Scholar
     icon: <i class="ai ai-google-scholar-square"></i>
     link: https://scholar.google.com/citations?user=qYICqYEAAAAJ
-  - name: My CV [Last updated: Jan 26, 2026].
+  - name: My CV (Jan 26, 2026).
     icon: <i class="ai ai-cv-square"></i>
     link: ./docs/cv-vasilopoulos-en.pdf
 
