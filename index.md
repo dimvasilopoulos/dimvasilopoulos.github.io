@@ -43,7 +43,7 @@ In Proceedings of the 6th International Workshop on Security in Cloud Computing 
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 **Message-Locked Proofs of Retrievability with Secure Deduplication**\
-In Proceedings of the 2016 ACM on Cloud Computing Security Workshop\ 
+In Proceedings of the 2016 ACM on Cloud Computing Security Workshop\
 (**ACM CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
 
 * * *
