@@ -16,7 +16,7 @@ My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore\
 **Algebraic Zero Knowledge Contingent Payment**\
-In Proceedings of the 23rd International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, (To appear), [[PDF](https://eprint.iacr.org/2024/1930.pdf)]
+In Proceedings of the 23rd International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, [[DOI](https://doi.org/10.1007/978-3-031-95764-2_10) | [PDF](https://eprint.iacr.org/2024/1930.pdf)]
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
@@ -49,7 +49,8 @@ In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCSW@
 
 ### Program Committees
 
-**2025**  IEEE ICBC, CAAW@FC\
+**2026**  IEEE ICBC, CAAW@FC\
+**2025**  IEEE ICBC, CAAW@FC, CBT@ESORICS\
 **2024**  ACNS, CBT@ESORICS\
 **2023**  Tokenomics, CBT@ESORICS\
 **2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
@@ -60,4 +61,4 @@ Journal of Parallel and Distributed Computing, IEEE Transactions on Dependable a
 
 ### External Reviewer for International Conferences
 
-Usenix (2023), SECRYPT (2023, 2017, 2016), CFS (2023), NDSS (2022), FC (2022), AFT (2022), IFIP SEC (2022, 2017), PST (2019), ACNS (2018), IEEE CNS (2018), ACM CCS (2017), ESORICS (2017), CANS (2017, 2016), ICDS (2016), ISC (2016), DPM (2015).
+ESORICS (2026, 2025, 2017), Usenix (2023), SECRYPT (2023, 2017, 2016), CFS (2023), NDSS (2022), FC (2022), AFT (2022), IFIP SEC (2022, 2017), PST (2019), ACNS (2018), IEEE CNS (2018), ACM CCS (2017), CANS (2017, 2016), ICDS (2016), ISC (2016), DPM (2015).
