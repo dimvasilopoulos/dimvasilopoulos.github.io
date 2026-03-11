@@ -8,7 +8,7 @@ I am a Post-doctoral Researcher in applied cryptography at the [Interdisciplinar
 
 Previously, I was a Senior Post-doctoral Researcher at the [Insight RI Research Centre for Data Analytics](https://www.insight-centre.org/) at University College Cork, where I worked with [Paolo Palmieri](https://www.paolopalmieri.com/) on privacy-enhancing technologies. Before that, I was a Post-doctoral Researcher at the [IMDEA Software Institute](https://software.imdea.org/) in Madrid, collaborating with [Pedro Moreno-Sanchez](https://sites.google.com/pedro-moreno.com/personal-website/home) on provably secure and privacy-preserving cryptographic protocols for blockchain-based payment systems.
 
-I received my Ph.D. from Sorbonne University in 2019 for research conducted at [EURECOM](https://www.eurecom.fr/) under the supervision of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). My doctoral research focused on verifiable cloud storage, where I designed cryptographic protocols that enable users to verify the integrity and reliable storage of outsourced data while allowing cloud providers to autonomously perform maintenance and data reduction operations.
+I received my Ph.D. from Sorbonne University in 2019 for research conducted at [EURECOM](https://www.eurecom.fr/) under the supervision of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). My doctoral research focused on verifiable cloud storage, where I designed cryptographic protocols that enable users to verify the integrity and reliable storage of outsourced data.
 
 My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
