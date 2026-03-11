@@ -4,9 +4,11 @@ layout: default
 
 ## About me
 
-Over the past three years, I was a post-doctoral researcher at [IMDEA Software Institute](https://software.imdea.org/) in Madrid (Spain) under the direction of [Pedro Moreno-Sanchez](https://software.imdea.org/~pedro.moreno/), where I worked on the design of provable secure and privacy-preserving cryptographic protocols for payments over blockchain technologies.
+I am a Post-doctoral Researcher in applied cryptography at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt-en/) at the University of Luxembourg, where I am a member of the [CryptoLUX](https://www.uni.lu/snt-en/research-groups/Cryptolux/) group led by Prof. [Alex Biryukov](https://www.uni.lu/fstm-en/people/alexei-biryukov/). My research focuses on blockchain security and privacy, with an emphasis on designing cryptographic protocols with formal security guarantees for modern distributed systems.
 
-In 2019, I obtained my Ph.D. from [Sorbonne University](https://www.sorbonne-universite.fr/en), which took place at [EURECOM](https://www.eurecom.fr/) in Sophia Antipolis (France) under the direction of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). During my Ph.D., I worked on verifiable cloud storage designing cryptographic protocols that reconcile cloud storage functionalities with security. More specifically, I worked on the design of cryptographic protocols that succeed in verifying the reliable storage of outsourced data while enabling cloud storage providers to autonomously perform automatic data maintenance and data reduction operations.
+Previously, I was a Senior Post-doctoral Researcher at the [Insight SFI Research Centre for Data Analytics](https://www.insight-centre.org/) at University College Cork, where I worked with [Paolo Palmieri](https://www.paolopalmieri.com/) on privacy-enhancing technologies. Before that, I was a Post-doctoral Researcher at the [IMDEA Software Institute](https://software.imdea.org/) in Madrid, collaborating with [Pedro Moreno-Sanchez](https://sites.google.com/pedro-moreno.com/personal-website/home) on provably secure and privacy-preserving cryptographic protocols for blockchain-based payment systems.
+
+I received my Ph.D. from Sorbonne University in 2019 for research conducted at [EURECOM](https://www.eurecom.fr/) under the supervision of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). My doctoral research focused on verifiable cloud storage, where I designed cryptographic protocols that enable users to verify the integrity and reliable storage of outsourced data while allowing cloud providers to autonomously perform maintenance and data reduction operations.
 
 My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
@@ -41,7 +43,7 @@ In Proceedings of the 6th International Workshop on Security in Cloud Computing 
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 **Message-Locked Proofs of Retrievability with Secure Deduplication**\
-In Proceedings of the 2016 ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
+In Proceedings of the 2016 ACM on Cloud Computing Security Workshop\ (**ACM CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
 
 * * *
 
