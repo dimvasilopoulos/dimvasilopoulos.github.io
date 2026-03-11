@@ -21,7 +21,7 @@ sidebar:
     link: https://dblp.org/pid/190/2075.html
   - name: Google Scholar
     icon: <i class="fa-brands fa-google-scholar"></i>
-    link: https://scholar.google.com/citations?user=
+    link: https://scholar.google.com/citations?user=qYICqYEAAAAJ
   - name: My CV
     icon: <i class="fa-solid fa-download"></i>
     link: ./docs/cv-vasilopoulos-en.pdf
