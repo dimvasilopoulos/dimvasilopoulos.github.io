@@ -30,7 +30,7 @@ In Proceedings of the Network and Distributed System Security Symposium (**NDSS*
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, and Kaoutar ElKhiyaoui\
 **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance**\
-Wiley Security and Privacy (vol. 6), 2023, [[doi](https://doi.org/10.1002/spy2.137) | [pdf](./docs/proofs-of-data-reliability.pdf)]
+Security and Privacy (vol. 6), September 2023, Wiley, [[doi](https://doi.org/10.1002/spy2.137) | [pdf](./docs/proofs-of-data-reliability.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, and Refik Molva\
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage**\
