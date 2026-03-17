@@ -39,11 +39,11 @@ In Proceedings of the International Conference on Security and Cryptography (**S
 
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, and Melek Önen\
 **POROS: Proof of Data Reliability for Outsourced Storage**\
-In Proceedings of the International Workshop on Security in Cloud Computing (**ACM&nbspSCC@AsiaCCS**), 2018, [[doi](https://doi.org/10.1145/3201595.3201600) | [pdf](./docs/poros.pdf)]
+In Proceedings of the International Workshop on Security in Cloud Computing (**ACMU+00A0SCC@AsiaCCS**), 2018, [[doi](https://doi.org/10.1145/3201595.3201600) | [pdf](./docs/poros.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 **Message-Locked Proofs of Retrievability with Secure Deduplication**\
-In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM&nbspCCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
+In Proceedings of the ACM on Cloud Computing Security Workshop (**ACMU+00A0CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
 
 * * *
 
