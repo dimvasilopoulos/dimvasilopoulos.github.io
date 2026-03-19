@@ -34,7 +34,7 @@ Security and Privacy (vol. 6), September 2023, Wiley, [[doi](https://doi.org/10.
 
 _Dimitrios Vasilopoulos_, Melek Önen, and Refik Molva\
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage**\
-In Proceedings of the International Conference on Security and Cryptography (**SECRYPT**), 2019, [[doi](https://doi.org/10.5220/0007927301730186) | [pdf](./docs/portos.pdf)] <i class="fa-solid fa-award"></i> <span style="color:red;">Recipient of the Best Student Paper Award</span>
+In Proceedings of the International Conference on Security and Cryptography (**SECRYPT**), 2019, [[doi](https://doi.org/10.5220/0007927301730186) | [pdf](./docs/portos.pdf)] <i class="fa-solid fa-trophy"></i> <span style="color:red;">Recipient of the Best Student Paper Award</span>
 
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, and Melek Önen\
 **POROS: Proof of Data Reliability for Outsourced Storage**\
