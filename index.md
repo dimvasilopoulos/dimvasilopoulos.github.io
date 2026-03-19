@@ -50,11 +50,11 @@ In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**
 
 ### Program Committees
 
-**2026**  IEEE ICBC, CAAW@FC\
-**2025**  IEEE ICBC, CVC, CAAW@FC, CBT@ESORICS\
-**2024**  ACNS, CBT@ESORICS\
-**2023**  Tokenomics, CBT@ESORICS\
-**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
+**2026**  IEEE ICBC, CAAW@FC.\
+**2025**  IEEE ICBC, CVC, CAAW@FC, CBT@ESORICS.\
+**2024**  ACNS, CBT@ESORICS.\
+**2023**  Tokenomics, CBT@ESORICS.\
+**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program.
 
 ### Reviewer for International Journals
 
