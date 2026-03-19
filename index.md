@@ -18,31 +18,31 @@ My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore\
 **Algebraic Zero Knowledge Contingent Payment**\
-In Proceedings of the International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, [[doi](https://doi.org/10.1007/978-3-031-95764-2_10) | [pdf](https://eprint.iacr.org/2024/1930.pdf)].
+In Proceedings of the International Conference on Applied Cryptography and Network Security (**ACNS**), 2025, [[doi](https://doi.org/10.1007/978-3-031-95764-2_10) | [pdf](https://eprint.iacr.org/2024/1930.pdf)]
 
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
-In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025.1, [[doi](https://doi.org/10.56553/popets-2025-0036) | [pdf](https://eprint.iacr.org/2024/953.pdf)].
+In Proceedings on Privacy Enhancing Technologies (**PoPETs**), 2025.1, [[doi](https://doi.org/10.56553/popets-2025-0036) | [pdf](https://eprint.iacr.org/2024/953.pdf)]
 
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, and Pedro Moreno-Sanchez\
 **Cryptographic Oracle-based Conditional Payments**\
-In Proceedings of the Network and Distributed System Security Symposium (**NDSS**), 2023, [[doi](https://doi.org/10.14722/ndss.2023.24024) | [pdf](https://eprint.iacr.org/2022/499.pdf)].
+In Proceedings of the Network and Distributed System Security Symposium (**NDSS**), 2023, [[doi](https://doi.org/10.14722/ndss.2023.24024) | [pdf](https://eprint.iacr.org/2022/499.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, and Kaoutar ElKhiyaoui\
 **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance**\
-Security and Privacy (vol. 6), September 2023, Wiley, [[doi](https://doi.org/10.1002/spy2.137) | [pdf](./docs/proofs-of-data-reliability.pdf)].
+Security and Privacy (vol. 6), September 2023, Wiley, [[doi](https://doi.org/10.1002/spy2.137) | [pdf](./docs/proofs-of-data-reliability.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, and Refik Molva\
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage**\
-In Proceedings of the International Conference on Security and Cryptography (**SECRYPT**), 2019, [[doi](https://doi.org/10.5220/0007927301730186) | [pdf](./docs/portos.pdf)]. <span style="color:red;">Recipient of the Best Student Paper Award</span>.
+In Proceedings of the International Conference on Security and Cryptography (**SECRYPT**), 2019, [[doi](https://doi.org/10.5220/0007927301730186) | [pdf](./docs/portos.pdf)] <i class="fa-solid fa-award"></i> <span style="color:red;">Recipient of the Best Student Paper Award</span>
 
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, and Melek Önen\
 **POROS: Proof of Data Reliability for Outsourced Storage**\
-In Proceedings of the International Workshop on Security in Cloud Computing (**ACM SCC@AsiaCCS**), 2018, [[doi](https://doi.org/10.1145/3201595.3201600) | [pdf](./docs/poros.pdf)].
+In Proceedings of the International Workshop on Security in Cloud Computing (**ACM SCC@AsiaCCS**), 2018, [[doi](https://doi.org/10.1145/3201595.3201600) | [pdf](./docs/poros.pdf)]
 
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 **Message-Locked Proofs of Retrievability with Secure Deduplication**\
-In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)].
+In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**), 2016, [[doi](https://doi.org/10.1145/2996429.2996433) | [pdf](./docs/ml-por.pdf)]
 
 * * *
 
@@ -50,11 +50,11 @@ In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**
 
 ### Program Committees
 
-**2026**  IEEE ICBC, CAAW@FC.\
-**2025**  IEEE ICBC, CVC, CAAW@FC, CBT@ESORICS.\
-**2024**  ACNS, CBT@ESORICS.\
-**2023**  Tokenomics, CBT@ESORICS.\
-**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program.
+**2026**  IEEE ICBC, CAAW@FC\
+**2025**  IEEE ICBC, CVC, CAAW@FC, CBT@ESORICS\
+**2024**  ACNS, CBT@ESORICS\
+**2023**  Tokenomics, CBT@ESORICS\
+**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
 
 ### Reviewer for International Journals
 
