@@ -26,8 +26,11 @@ sidebar:
   - name: My CV [Mar. 20, 2026]
     icon: <i class="ai ai-cv-square"></i>
     link: ./docs/cv-vasilopoulos-en.pdf
+  - name: 
+    icon: 
+    link: 
   - name: Email
-    icon: <i class="fa-solid fa-square-envelope"></i>
+    icon: <i class="fa-solid fa-at"></i>
     link: mailto:Dimitrios.Vasilopoulos@eurecom.fr
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
