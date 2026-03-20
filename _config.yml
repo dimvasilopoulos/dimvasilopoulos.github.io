@@ -12,9 +12,9 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
-  - name: Email
+  - name: dimitrios.vasilopoulos@uni.lu
     icon: <i class="fa-regular fa-envelope"></i>
-    link: mailto:Dimitrios.Vasilopoulos@eurecom.fr
+    link: mailto:dimitrios.vasilopoulos@uni.lu
   - name: 
     icon: 
     link: 
