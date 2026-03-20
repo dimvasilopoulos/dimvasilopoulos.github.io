@@ -51,7 +51,7 @@ In Proceedings of the ACM on Cloud Computing Security Workshop (**ACM CCSW@CCS**
 ### Program Committees
 
 **2026**  IEEE ICBC, CAAW@FC\
-**2025**  IEEE ICBC, CVC, CAAW@FC, CBT@ESORICS\
+**2025**  IEEE ICBC, CVCBT, CAAW@FC, CBT@ESORICS\
 **2024**  ACNS, CBT@ESORICS\
 **2023**  Tokenomics, CBT@ESORICS\
 **2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
@@ -62,4 +62,4 @@ Journal of Parallel and Distributed Computing, IEEE Transactions on Dependable a
 
 ### External Reviewer for International Conferences
 
-ESORICS (2026, 2025, 2017), Usenix (2023), SECRYPT (2023, 2017, 2016), CFS (2023), NDSS (2022), FC (2022), AFT (2022), IFIP SEC (2022, 2017), PST (2019), ACNS (2018), IEEE CNS (2018), ACM CCS (2017), CANS (2017, 2016), ICDS (2016), ISC (2016), DPM (2015).
+ESORICS (2026, 2025, 2017), USENIX Security (2023), SECRYPT (2023, 2017, 2016), CFS (2023), NDSS (2022), FC (2022), AFT (2022), IFIP SEC (2022, 2017), PST (2019), ACNS (2018), IEEE CNS (2018), ACM CCS (2017), CANS (2017, 2016), ICDS (2016), ISC (2016), DPM (2015).
