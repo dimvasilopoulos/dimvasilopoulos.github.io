@@ -37,10 +37,10 @@
           {% endif %}
 
           {% if site.email %}
-            <p>{{ site.email | default: site.github.project_tagline }}</p>
+            <p>{{ site.email }}</p>
           {% endif %}
 
-          <p class="addr">{{ site.description }}</p>
+          <p>{{ site.description }}</p>
 
           {% include sidebar.html %}
 
