@@ -8,7 +8,9 @@ I am a Postdoctoral Researcher at the [Interdisciplinary Centre for Security, Re
 
 Previously, I was a Senior Postdoctoral Researcher at the [Insight RI Research Centre for Data Analytics](https://www.insight-centre.org/) at [University College Cork](https://www.ucc.ie/en/compsci/), where I worked with [Paolo Palmieri](https://www.paolopalmieri.com/) on privacy-enhancing technologies. Before that, I was a Postdoctoral Researcher at [IMDEA Software Institute](https://software.imdea.org/) in Madrid, collaborating with [Pedro Moreno-Sanchez](https://sites.google.com/pedro-moreno.com/personal-website/home) on provably secure and privacy-preserving cryptographic protocols for blockchain-based payment systems.
 
-In 2019, I received my Ph.D. from [EURECOM](https://www.eurecom.fr/) and [Sorbonne University](https://www.sorbonne-universite.fr/en) for research conducted under the direction of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). My doctoral research focused on verifiable cloud storage, where I designed cryptographic protocols that enable users to verify the integrity and reliable storage of outsourced data. My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
+In 2019, I received my Ph.D. from [EURECOM](https://www.eurecom.fr/) and [Sorbonne University](https://www.sorbonne-universite.fr/en) for research conducted under the direction of [Refik Molva](https://www.eurecom.fr/en/people/molva-refik) and [Melek Önen](https://www.eurecom.fr/en/people/onen-melek). My doctoral research focused on verifiable cloud storage, where I designed cryptographic protocols that enable users to verify the integrity and reliable storage of outsourced data.
+
+My Ph.D. thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 **<i class="fa-solid fa-envelope"></i> Email:** dimitrios.vasilopoulos (at) uni.lu
 
