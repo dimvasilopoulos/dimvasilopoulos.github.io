@@ -35,7 +35,7 @@ Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd
 
 **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance**\
 _Dimitrios Vasilopoulos_, Melek Önen, Refik Molva, and Kaoutar ElKhiyaoui\
-Security and Privacy (vol. 6), September 2023, Wiley\
+_Security and Privacy_, Vol. 6, Wiley, September 2023\
 [[cite](https://dblp.org/rec/journals/sap/VasilopoulosOME23.html?view=bibtex)] [[doi](https://doi.org/10.1002/spy2.137)] [[pdf](./docs/proofs-of-data-reliability.pdf)]
 
 **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage**\
