@@ -20,17 +20,17 @@ My PhD thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 <i class="fa-regular fa-file-lines"></i> **Algebraic Zero Knowledge Contingent Payment**\
 Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore\
-**ACNS 2025** (International Conference on Applied Cryptography and Network Security)\
+**ACNS 2025** – International Conference on Applied Cryptography and Network Security\
 [[cite](https://dblp.org/rec/conf/acns/GomezMartinezVMF25.html?view=bibtex)] [[doi](https://doi.org/10.1007/978-3-031-95764-2_10)] [[pdf](https://eprint.iacr.org/2024/1930.pdf)]
 
 <i class="fa-regular fa-file-lines"></i> **MixBuy: Contingent Payment in the Presence of Coin Mixers**\
 Diego Castejon-Molina, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
-**PoPETs 2025** (Proceedings on Privacy Enhancing Technologies)\
+**PoPETs 2025** – Proceedings on Privacy Enhancing Technologies\
 [[cite](https://dblp.org/rec/journals/popets/CastejonMolinaVM25.html?view=bibtex)] [[doi](https://doi.org/10.56553/popets-2025-0036)]  [[pdf](https://eprint.iacr.org/2024/953.pdf)]
 
 <i class="fa-regular fa-file-lines"></i> **Cryptographic Oracle-based Conditional Payments**\
 Varun Madathil, Sri AravindaKrishan Thyagarajan, _Dimitrios Vasilopoulos_, Lloyd Fournier, Giulio Malavolta, and Pedro Moreno-Sanchez\
-**NDSS 2023** (Network and Distributed System Security Symposium)\
+**NDSS 2023** – Network and Distributed System Security Symposium\
 [[cite](https://dblp.org/rec/conf/ndss/MadathilTVFMM23.html?view=bibtex)] [[doi](https://doi.org/10.14722/ndss.2023.24024)] [[pdf](https://eprint.iacr.org/2022/499.pdf)]
 
 <i class="fa-regular fa-file-lines"></i> **Proofs of Data Reliability: Verification of Reliable Data Storage with Automatic Maintenance**\
@@ -40,18 +40,18 @@ _Security and Privacy (vol. 6)_, Wiley, September 2023\
 
 <i class="fa-regular fa-file-lines"></i> **PORTOS: Proof of Data Reliability for Real-World Distributed Outsourced Storage**\
 _Dimitrios Vasilopoulos_, Melek Önen, and Refik Molva\
-**SECRYPT 2019** (International Conference on Security and Cryptography)\
-<i class="fa-solid fa-trophy"></i> **[Recipient of the Best Student Paper Award](https://secrypt.scitevents.org/PreviousAwards.aspx#2019)**\
+**SECRYPT 2019** – International Conference on Security and Cryptography\
+**<i class="fa-solid fa-trophy"></i> [Recipient of the Best Student Paper Award](https://secrypt.scitevents.org/PreviousAwards.aspx#2019)**\
 [[cite](https://dblp.org/rec/conf/icete/VasilopoulosOM19.html?view=bibtex)] [[doi](https://doi.org/10.5220/0007927301730186)] [[pdf](./docs/portos.pdf)]
 
 <i class="fa-regular fa-file-lines"></i> **POROS: Proof of Data Reliability for Outsourced Storage**\
 _Dimitrios Vasilopoulos_, Kaoutar ElKhiyaoui, Refik Molva, and Melek Önen\
-**ACM SCC@ASIACCS 2018** (International Workshop on Security in Cloud Computing)\
+**ACM SCC@ASIACCS 2018** – International Workshop on Security in Cloud Computing\
 [[cite](https://dblp.org/rec/conf/ccs/VasilopoulosEMO18.html?view=bibtex)] [[doi](https://doi.org/10.1145/3201595.3201600)] [[pdf](./docs/poros.pdf)]
 
 <i class="fa-regular fa-file-lines"></i> **Message-Locked Proofs of Retrievability with Secure Deduplication**\
 _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
-**ACM CCSW@CCS 2016** (ACM on Cloud Computing Security Workshop)\
+**ACM CCSW@CCS 2016** – ACM on Cloud Computing Security Workshop\
 [[cite](https://dblp.org/rec/conf/ccs/VasilopoulosOEM16.html?view=bibtex)] [[doi](https://doi.org/10.1145/2996429.2996433)] [[pdf](./docs/ml-por.pdf)]
 
 * * *
