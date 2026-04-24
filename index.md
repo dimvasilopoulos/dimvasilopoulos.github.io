@@ -54,6 +54,13 @@ _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 **ACM CCSW@CCS 2016** (ACM on Cloud Computing Security Workshop)\
 [[cite](https://dblp.org/rec/conf/ccs/VasilopoulosOEM16.html?view=bibtex)] [[doi](https://doi.org/10.1145/2996429.2996433)] [[pdf](./docs/ml-por.pdf)]
 
+### Preprints
+
+**Foundations of Verifiably Encrypted (Blind) Signatures**\
+Diego Castejon-Molina, Erkan Tairi, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
+2026\
+[[pdf](https://eprint.iacr.org/2026/789.pdf)]
+
 * * *
 
 ## Academic Service
