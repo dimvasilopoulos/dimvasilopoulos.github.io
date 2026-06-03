@@ -56,6 +56,11 @@ _Dimitrios Vasilopoulos_, Melek Önen, Kaoutar ElKhiyaoui, and Refik Molva\
 
 ### Preprints
 
+**Cryptographic Collateralized Loan without Smart Contracts**\
+Diego Castejon-Molina, Varun Madathil, _Dimitrios Vasilopoulos_, Sri AravindaKrishan Thyagarajan, and Pedro Moreno-Sanchez\
+2026\
+[[pdf](https://eprint.iacr.org/2026/1123.pdf)]
+
 **Foundations of Verifiably Encrypted (Blind) Signatures**\
 Diego Castejon-Molina, Erkan Tairi, _Dimitrios Vasilopoulos_, and Pedro Moreno-Sanchez\
 2026\
@@ -67,11 +72,11 @@ Diego Castejon-Molina, Erkan Tairi, _Dimitrios Vasilopoulos_, and Pedro Moreno-S
 
 ### Program Committees
 
-**2026**  IEEE ICBC, CAAW@FC\
+**2026**  IEEE ICBC, BCCA, CAAW@FC, CBT@ESORICS\
 **2025**  IEEE ICBC, CVCBT, CAAW@FC, CBT@ESORICS\
 **2024**  ACNS, CBT@ESORICS\
-**2023**  Tokenomics, CBT@ESORICS\
-**2022**  Tokenomics, CBT@ESORICS, ESORICS Poster Program
+**2023**  CBT@ESORICS, Tokenomics\
+**2022**  CBT@ESORICS, Tokenomics
 
 ### Reviewer for International Journals
 
