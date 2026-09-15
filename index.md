@@ -72,7 +72,7 @@ Diego Castejon-Molina, Erkan Tairi, _Dimitrios Vasilopoulos_, and Pedro Moreno-S
 
 ### Program Committees
 
-**2026**  IEEE ICBC, BCCA, CAAW@FC, CBT@ESORICS\
+**2026**  USENIX Security, IEEE ICBC, BCCA, CAAW@FC, CBT@ESORICS\
 **2025**  IEEE ICBC, CVCBT, CAAW@FC, CBT@ESORICS\
 **2024**  ACNS, CBT@ESORICS\
 **2023**  CBT@ESORICS, Tokenomics\
