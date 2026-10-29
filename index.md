@@ -18,6 +18,10 @@ My PhD thesis is [here](https://tel.archives-ouvertes.fr/tel-03010491).
 
 ## Research Publications
 
+**Geo-Indistinguishability in Practice: Mitigating Practical Location De-Anonymisation Using Differential Privacy**\
+Akasha Shafiq, Hamza Aguelal, _Dimitrios Vasilopoulos_, and Paolo Palmieri\
+**MobiSec 2026** - KIISC International Conference on Mobile Internet Security (forthcoming)
+
 **Algebraic Zero Knowledge Contingent Payment**\
 Javier Gomez-Martinez, _Dimitrios Vasilopoulos_, Pedro Moreno-Sanchez, and Dario Fiore\
 **ACNS 2025** – International Conference on Applied Cryptography and Network Security\
